@@ -177,6 +177,7 @@ Possible extensions include:
 - CatBoost
 - SHAP-based model interpretability
 - Model deployment with Flask or FastAPI
+- Verification of Data leakage
 
 ---
 
